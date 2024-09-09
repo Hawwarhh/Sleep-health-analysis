@@ -4,12 +4,19 @@ Overview
 This project involved a comprehensive analysis of a dataset encompassing various health and lifestyle metrics, such as sleep duration, quality of sleep, physical activity levels, stress levels, BMI categories, and more. The objective was to uncover patterns and correlations between these variables and to classify sleep quality using advanced machine learning models, including the C5.0 algorithm.
 
 Tools & Libraries Used
+
 R Programming Language: Primary tool for data manipulation, visualization, and analysis.
+
 Tidyverse: A collection of R packages designed for data science, used for data wrangling and visualization.
+
 Psych: Utilized for advanced statistical functions.
+
 Caret: Applied for model training, validation, and evaluation.
+
 C50: Used for implementing the C5.0 decision tree algorithm.
+
 e1071: for SVM implementation.
+
 ggplot2: For creating detailed and informative visualizations.
 
 Key Insights & Visualizations
